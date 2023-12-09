@@ -7,7 +7,7 @@
 body {
   background-color: #fff;
   font-family: Roboto, sans-serif;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   color: #434455;
   margin: 0 auto; 
 }
@@ -131,6 +131,7 @@ address {
 .solutions_button:focus {
   background-color: #404BBF;
 }
+
 /* advantages container */
 .advantages_container {
   /* height: 344px; */
@@ -149,6 +150,7 @@ address {
   list-style-type: none;
 }
 .advantages_item-title {
+  color: #2e2f42;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -175,6 +177,7 @@ address {
 }
 
 .our-team_title {
+  color: #2e2f42;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -198,6 +201,7 @@ address {
     margin-bottom: 32px;
 }
 .our-team_item-title {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -223,6 +227,7 @@ address {
     margin-bottom: 96px;
 }
 .portfolio_title {
+    color: #2e2f42;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -244,6 +249,7 @@ address {
     margin-bottom: 32px;
 }
 .portfolio_item-title {
+    color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
